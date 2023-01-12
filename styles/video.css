@@ -6,7 +6,7 @@
 
 
 .profile-picture{
-  width: 40px;
+  width: 36px;
   border-radius: 50px;
 }
 .video-title{
@@ -14,10 +14,10 @@
   font-size: 14px;
   font-weight: 500;
   line-height: 20px;
-  margin-bottom: 11px;
+  margin-bottom: 10px;
 }
 .thumbnail-row{
-  margin-bottom: 12px;
+  margin-bottom: 8px;
   position: relative;
 }
 .video-author,
@@ -53,5 +53,5 @@
   color: white;
   position: absolute;
   bottom: 10px;
-  right: 10px;
+  right: 4px;
 }

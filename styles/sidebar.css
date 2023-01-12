@@ -4,5 +4,26 @@
   bottom: 0;
   top: 55px;
   background-color: white;
-  width: 72px;
+  width: 69px;
+  z-index: 200;
+  padding: 5px;
+}
+.sidebar-link{
+  display: flex;
+  height: 74px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  cursor: pointer;
+}
+.sidebar-link:hover{
+  background-color: rgb(235, 235, 235);
+}
+.sidebar-link img{
+  height: 24px;
+  margin-bottom: 6px;
+}
+.sidebar-link div{
+  font-family: Roboto, Arial;
+  font-size: 10px;
 }
