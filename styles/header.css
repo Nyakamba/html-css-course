@@ -5,6 +5,7 @@
   flex-direction: row;
   justify-content: space-between;
   z-index: 100;
+  color: red;
 
   position: fixed;
   top: 0;
